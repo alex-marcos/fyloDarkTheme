@@ -1,57 +1,44 @@
 /* Css do Header */
 
-.tituloprincipal {
-    text-align: center;
-    font-size: 2em;
-    font-family:  'Red Hat Display', sans-serif;
-    padding: 3em;
-    font-weight: bold;
+header {
+    background-color: #1b2330;
+}
+
+.logo {
+    padding: 2em;
+}
+
+.botao1 { 
+    width: 15%;
+    position: relative;
+    left: 57%;
+    font-family: 'Montserrat', sans-serif;
+    
+
+}
+
+.listatopo {
     color: #FFFFFF;
-    letter-spacing: 10px ;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 70%;
+    bottom: 5em;
+    width: 30%;
+    font-family: 'Montserrat', sans-serif;
 }
 
-/* Css do Main*/
 
-body {
-    background: url(./assets/bg-stars.svg);
-    background-color: #1e1c29;
-}
 
-.textomain {
-    color: #FFFFFF;
-    letter-spacing: 10px;
-    font-size: 1em;
-    text-align: center;
-    padding: 3em;
+.listatopo li {
+    padding: 0 0 0 1em;
 }
-
-#parcelas, #legenda {
-    float: left;
-    clear: both;
+.imagemheader {
+    position: relative;
+    left: 25%;
+    width: 45%;
 }
-#parcelas div {
-    float: left;
-    border: 1px solid #ccf;
-    padding: 50px 0px;
-    width: 100px;
-    text-align: center;
-}
-#legenda div {
-    float: left;
-    border: 1px solid #ccf;
-    width: 100px;
-    text-align: center;
-}
+/*Css do Main */
 
 /* Css do Footer */ 
 
-
-footer {
-    
-    background: url(./assets/pattern-hills.svg);
-}
-
-.copyright {
-    text-align: center;
-    color: #FFFFFF;
-}
