@@ -9,9 +9,9 @@ header {
 }
 
 .botao1 { 
-    width: 15%;
+    width: 9%;
     position: relative;
-    left: 57%;
+    left: 71%;
     font-family: 'Montserrat', sans-serif;
     
 
@@ -22,7 +22,7 @@ header {
     display: flex;
     flex-direction: row;
     position: relative;
-    left: 70%;
+    left: 80%;
     bottom: 5em;
     width: 30%;
     font-family: 'Montserrat', sans-serif;
@@ -38,6 +38,74 @@ header {
     left: 25%;
     width: 45%;
 }
+
+/* Css entre o Header e o Main */
+
+.tituloetexto {
+    text-align: center;
+    text-align: center;
+    position: relative;
+    bottom: 29em;
+   
+    
+}
+
+.titulonomeio {
+    padding: 3em 0 1em 0 ;
+    font-size: 39px;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+    width: 46%;
+    position: relative;
+    left: 27%;
+    
+
+}
+
+.textonomeio {
+    font-size: 22px;
+    padding: 0 0 1em 0;
+    width: 29%;
+    position: relative;
+    left: 37%;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+    line-height: 1.2em;
+
+
+    
+}
+
+.imagemnomeio {
+    width: 100%;
+    background-color: #1b2330;
+}
+
+.botao2 {
+    padding: 1em;
+    width: 18%;
+    border-radius: 25px;
+    background: #4ec3d4;
+    border: none;
+    font-size: 1em;
+    position: relative;
+    left: 1%;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+}
+
+.botao2:hover {
+    background: #43b1d0;
+    
+    transition: 00.6s;
+}
+
+.botao2:active {
+    background: #0D8CB0;
+}
+
+
+
 /*Css do Main */
 
 /* Css do Footer */ 
