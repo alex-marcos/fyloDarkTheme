@@ -159,6 +159,36 @@ main {
     padding: 0.5em 0 0;
 }
 
+.imagemmain5 {
+    float: left;
+    margin: 0 2em 2em 17em;
+}
+
+.finalmain {
+    text-align: left;
+    position: relative;
+    top: 11em;
+    width: 80%;
+    font-family: 'Red Hat Display', sans-serif;
+    color: #FFFFFF;
+}
+
+.finalmain h6 {
+    font-size: 3em;
+    font-weight: bold;
+    line-height: 1.2em;
+}
+
+.finalmain p {
+    line-height: 1.2em;
+    padding: 0.8em;
+    font-size: 1.2em;
+}
+
+.depoimentos {
+    clear: left;
+}
+
 
 /* Css do Footer */ 
 
