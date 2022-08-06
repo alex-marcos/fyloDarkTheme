@@ -122,6 +122,30 @@ main {
     color: #FFFFFF
 }
 
+.container-a {
+    display: grid;
+    grid-template-columns: 30em 30em;
+    gap: 2em 2em;
+    justify-content: space-evenly;
+    position: relative;
+    bottom: 20em;
+    text-align: center;
+    
+}
+
+.textomeio-a {
+    padding: 1em;
+    line-height: 1.4em;
+}
+
+.textomeio-a:hover {
+    box-shadow: 0em 0em 5em #43b1d0;
+    border-radius: 25px;
+    transition: 1s;
+ 
+}
+
+
 .conteudomeio2 {
     width: 22%;
     text-align: center;
@@ -140,37 +164,39 @@ main {
     padding: 3em;
 }
 
-.conteudomeio1 h2 {
+
+
+
+.textomeio-a p {
+    font-size: 1em;
+    padding: 0 0 1em;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF
+}
+
+.textomeio-a h2 {
     font-size: 2em;
     padding: 0 0 1em;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
 }
 
-.conteudomeio2 h2 {
-    font-size: 2em;
-    padding: 0.5em 0 1em;
-}
 
-.conteudomeio1 p {
-    line-height: 1.3em;
-}
 
-.conteudomeio2 p {
-    line-height: 1.3em;
-    padding: 0.5em 0 0;
-}
 
 .imagemmain5 {
     float: left;
-    margin: 0 2em 2em 17em;
+    margin: 0 2em 2em 6em;
 }
 
 .finalmain {
     text-align: left;
     position: relative;
     top: 11em;
-    width: 80%;
+    width: 88%;
     font-family: 'Red Hat Display', sans-serif;
     color: #FFFFFF;
+    margin: 0 0 18em;
 }
 
 .finalmain h6 {
@@ -185,10 +211,90 @@ main {
     font-size: 1.2em;
 }
 
+.textogoogle {
+    text-decoration: underline;
+    color: #2dc3ec;
+    font-size: 1.1em;
+    
+}
+
 .depoimentos {
     clear: left;
 }
 
+.imagemmain6 {
+    clear: left;
+    position: relative;
+    top: 0;
+    right: 38%;
+}
+
+.container-b {
+    display: inline-flex;
+    position: relative;
+    width: 86%;
+    margin: 6em 0;
+    padding: 1em;
+
+}
+
+.depoimentotexto-a {
+    background-color: #21293c;
+    padding: 2em;
+    margin: 2em;
+}
+
+.depoimentotexto-b {
+    background-color: #21293c;
+    padding: 2em;
+    margin: 2em;
+}
+
+.depoimentotexto-c {
+    background-color: #21293c;
+    padding: 2em;
+    margin: 2em;
+}
+
+.depoimentotexto-a p1, p2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+    padding: 0 0 0 1em;
+    
+  
+}
+
+.depoimentotexto-b p1, p2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+    padding: 0 0 0 1em;
+  
+}
+
+.depoimentotexto-c p1, p2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+    padding: 0 0 0 1em;
+  
+}
+
+.imagemperfil1 {
+    float: left;
+    border-radius: 4em;
+    height: 2em;
+}
+
+.imagemperfil2 {
+    float: left;
+    border-radius: 4em;
+    height: 2em;
+}
+
+.imagemperfil3 {
+    float: left;
+    border-radius: 4em;
+    height: 2em;
+}
 
 /* Css do Footer */ 
 
