@@ -1,20 +1,15 @@
+
+
+
 /* Css do Header */
 
 header {
     background-color: #1b2330;
 }
 
-.logo {
-    padding: 2em;
-}
 
-.botao1 { 
-    width: 9%;
-    position: relative;
-    left: 71%;
-    font-family: 'Montserrat', sans-serif;
-    
-
+.depoimentotexto-a p2 {
+    padding: 4em 0 0 0;
 }
 
 .listatopo {
@@ -225,8 +220,8 @@ main {
 .imagemmain6 {
     clear: left;
     position: relative;
-    top: 0;
-    right: 38%;
+    left: 5.3%;
+    bottom: 2em;
 }
 
 .container-b {
@@ -256,45 +251,250 @@ main {
     margin: 2em;
 }
 
-.depoimentotexto-a p1, p2 {
+.depoimentotexto-a p1 {
     font-family: 'Montserrat', sans-serif;
     color: #FFFFFF;
     padding: 0 0 0 1em;
+    line-height: 1.4em;
     
   
 }
 
-.depoimentotexto-b p1, p2 {
+.depoimentotexto-b p1{
     font-family: 'Montserrat', sans-serif;
     color: #FFFFFF;
     padding: 0 0 0 1em;
+    line-height: 1.4em;
   
 }
 
-.depoimentotexto-c p1, p2 {
+.depoimentotexto-c p1 {
     font-family: 'Montserrat', sans-serif;
     color: #FFFFFF;
     padding: 0 0 0 1em;
+    line-height: 1.4em;
   
 }
+
+.depoimentotexto-a p2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #CCCCCC;
+    padding: 0 0 0 1em;
+    line-height: 1.4em;
+    font-size: 0.8em;
+
+}
+
+.depoimentotexto-b p2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #CCCCCC;
+    padding: 0 0 0 1em;
+    line-height: 1.4em;
+    font-size: 0.8em;
+
+}
+
+.depoimentotexto-c p2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #CCCCCC;
+    padding: 0 0 0 1em;
+    line-height: 1.4em;
+    font-size: 0.8em;
+
+
+}
+
 
 .imagemperfil1 {
     float: left;
     border-radius: 4em;
     height: 2em;
+    margin: 0 1em 0;
+    
 }
 
 .imagemperfil2 {
     float: left;
     border-radius: 4em;
     height: 2em;
+    margin: 0 1em 0;
+   
 }
 
 .imagemperfil3 {
     float: left;
     border-radius: 4em;
     height: 2em;
+    margin: 0 1em 0;
+   
 }
 
+.mainefooter {
+    width: 44%;
+    position: relative;
+    left: 24%;
+    padding: 2em;
+    text-align: center;
+    background-color: #21293c;
+    padding: 2em;
+    margin: 2em 0 0;
+    border-radius: 1em;
+    top: 7em;
+}
+
+.mainefooter:hover {
+    box-shadow: 0 0 2em #000000;
+}
+
+.mainefooter h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+   
+}
+
+.mainefooter p1 {
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 0 0 2em 0;
+}
+
+.botaomain {
+    padding: 1em;
+    width: 42%;
+    border-radius: 25px;
+    background: #4ec3d4;
+    border: none;
+    font-size: 1em;
+    position: relative;
+    left: 1%;
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+}
+
+.botaomain:hover {
+    background: #1a9fc4;
+    
+    transition: 00.6s;
+}
+
+.botaomain:active {
+    background: #046783;
+}
+
+.email {
+    width: 48%;
+    padding: 1em;
+    border: none;
+    border-radius: 2em;
+    font-family: 'Montserrat', sans-serif;
+    color: #CCCCCC;
+}
+    
+
+
+
 /* Css do Footer */ 
+
+footer {
+	background-color: #0c1524;
+}
+
+.logofooter {
+    padding: 2em;
+}
+
+#logofooter {
+	height: 6%;
+	padding: 11em 8em 3em;
+}
+
+.footerparte1 {
+	width: 40%;
+    position: relative;
+    top: 11em;
+    width: 41%;
+    margin: 0 0 0 3em;
+}
+
+.footerlocal{
+	display: flex;
+	align-items: center;
+	font-family: 'Open Sans', sans-serif;
+	color: #FFFFFF;
+
+}
+
+.footertelefone, .footeremail  {
+    position: relative;
+    left: 55%;
+    bottom: 5em;
+    display: flex;
+	align-items: center;
+	font-family: 'Open Sans', sans-serif;
+	color: #FFFFFF;
+}
+
+.textofooter {
+	width: 45%;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+
+#imgfooter {
+	padding: 1em 1em 1em 3em;
+}
+
+.listafootera {
+	line-height: 2em;
+	width: 8%;
+    position: relative;
+    left: 50%;
+	font-family: 'Open Sans', sans-serif;
+	color: #FFFFFF;
+	
+}
+
+.listafooterb {
+	line-height: 2em;
+	width: 7%;
+    position: relative;
+    left: 60%;
+    bottom: 12em;
+	font-family: 'Open Sans', sans-serif;
+	color: #FFFFFF;
+	
+}
+
+.listafootera li {
+	line-height: 3em;
+}
+
+.listafooterb li {
+	line-height: 3em;
+}
+
+.redeslogo {
+	width: 13%;
+    position: relative;
+    left: 79%;
+    bottom: 22em;
+}
+
+
+#logoface, #logotwitter, #logoinsta {
+	height: 3em;
+}
+
+
+.copyright {
+	text-align: end;
+	padding: 3em;
+	font-family: 'Open Sans', sans-serif;
+	color: #FFFFFF;
+}
 
