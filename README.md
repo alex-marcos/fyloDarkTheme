@@ -1,6 +1,6 @@
-# Desafio de JavaScript Frontend Mentor - Fylo dark theme landing page
+# Frontend Mentor - Fylo dark theme landing page
 
-
+Finalizando o Projeto no dia 06/08/2022, consegui finalizar o que foi proposto na página Frontendmentor, entretanto não consegui utilizar o Javascrpit como planejado, ficando assim para futuras atualizações nesse projeto.
 
 ## Welcome! 👋
 
