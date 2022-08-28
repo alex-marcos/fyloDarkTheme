@@ -12,7 +12,7 @@ Esse projeto tem como por propósito os seguintes objetivos:
 
 <h2 align="centre"> Origem do desafio</h2>
 
-O desafio foi retirado do site Frontend Mentor.
+O desafio foi retirado do site Frontend Mentor.</br>
 Link para o desafio:
 https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd
 
