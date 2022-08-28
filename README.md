@@ -36,7 +36,6 @@ Os usuarios devem ser capazes de:
 
 # Imagens do desafio: 
 <div align="center">
-<img align="center" alt="Design do site" height="300" width="500" src="./design/desktop-design.jpg">
 <img align="center" alt="Design do site" height="300" width="500" src="./design/desktop-preview.jpg">
 
 # Imagens do resultado:
