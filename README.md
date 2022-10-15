@@ -36,14 +36,14 @@ Os usuarios devem ser capazes de:
 
 # Imagens do desafio: 
 <div align="center">
-<img align="center" alt="Design do site" height="300" width="500" src="./design/desktop-preview.jpg">
+<img align="center" alt="Design do site" height="300" width="500" src="./assets/design/desktop-preview.jpg">
 
 # Imagens do resultado:
-<img align="center" alt="Design do site" height="300" width="500" src="./design/header_resultado.png">
-<img align="center" alt="Design do site" height="300" width="500" src="./design/main_resultado.png">
-<img align="center" alt="Design do site" height="300" width="500" src="./design/main_resultado1.png">
-<img align="center" alt="Design do site" height="300" width="500" src="./design/main_resultado2.png">
-<img align="center" alt="Design do site" height="300" width="500" src="./design/footer_resultado.png">
+<img align="center" alt="Design do site" height="300" width="500" src="./assets/design/header_resultado.png">
+<img align="center" alt="Design do site" height="300" width="500" src="./assets/design/main_resultado.png">
+<img align="center" alt="Design do site" height="300" width="500" src="./assets/design/main_resultado1.png">
+<img align="center" alt="Design do site" height="300" width="500" src="./assets/design/main_resultado2.png">
+<img align="center" alt="Design do site" height="300" width="500" src="./assets/design/footer_resultado.png">
 </div>
 
 <h2 align="centre">Tecnologias Utilizadas</h2>
